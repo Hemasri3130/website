@@ -1,0 +1,204 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.stylinglogo{
+    height:80px;
+    width: 180px;
+}
+
+#go{
+    color: black;
+    font-weight: bold;
+    border: 0px;
+}
+#go:hover{
+    color: red;
+}
+.goo1{
+    background-color: red;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    border: 0px;
+    margin-left: 20px;
+}
+
+.goo1:hover{
+    background-color: aquamarine;
+    color: red;
+}
+.bgimg1{
+    background-image: url(https://res.cloudinary.com/dxujeg5en/image/upload/v1669302394/modified-mazda-4k-4t_rfmpjx.jpg);
+    background-size: cover;
+    height: 80vh;
+}
+.head1{
+    font-size: 40px;
+    font-weight: 300;
+    color:white;
+}
+.paraline{
+    font-size: 24px;
+    font-weight: 300;
+    color:white;
+}
+.buttonst{
+    color: white;
+    background-color: red;
+    width: 230px;
+    height: 45px;
+    border-width: 0px;
+    border-radius: 8px;
+    font-weight: bold;
+}
+.bgcolor2{
+    background-color: aliceblue;
+
+}
+.head2{
+    color:blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight:700;
+}
+.para2{
+    color:#5a7184 ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:16px ;
+}
+.carrding{
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: aliceblue;
+    border-radius: 15px;
+}
+.cardimage{
+    width: 87px;
+    height: 90px;
+
+}
+.chead{
+    color:rgb(218, 102, 102);
+    font-size: 22px;
+    font-weight: bold;
+
+}
+.cpara{
+    color:#5a7184;
+    font-size: 16px;
+}
+span{
+    font-weight: bold;
+    color:#183b56;
+    font-style: italic;
+    font-size: 18px;
+}
+.bgcolor4{
+    background-color: white;
+}
+.explorehead{
+    color:#183b56;
+    font-size:28px ;
+    font-weight: 700;
+}
+.explorecards{
+    border-radius: 16px;
+}
+.exploreimage{
+    border-radius: 16px;
+
+}
+.cardhead4{
+    color: #183b56;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 24px;
+}
+.explorelink{
+    color: red;
+    font-size: 14px;
+    font-weight: bold;
+}
+.paybgimg{
+background-color: white;
+}
+.paymentingimage{
+    width: 350px;
+}
+.payhead{
+    color: #183b56;
+    font-size: 28px;
+    font-weight: 700;
+}
+.paypara{
+    color: #5a7184;
+    font-size: 16px;
+}
+.cstbutton{
+    color:white;
+    background-color: red;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    border-right: 10px;
+}
+.paycardimg{
+    width:50px;
+    height: 50px;
+    margin-right: 28px;
+}
+.color2{
+    background-color: grey;
+}
+.map{
+    display: block;
+    width :50%;
+    float: left;
+    margin: 20px;
+
+
+}
+.contactmap{
+    background-color: aqua;
+    height: 100%;
+}
+.formcontrol{
+    padding: 10px;
+    padding-top: 10px;
+}
+.inputform1{
+    display:  block;
+    width: 40%;
+    float: left;
+    padding: 10px;
+}
+.form-group{
+    padding:15px;
+    display: inline-block;
+    width: 400px;
+}
+.mb-3{
+    width: 400px;
+    display: block;
+    float: left;
+    margin: 10px;
+   
+}
+.bi{
+    margin: 10px;
+    
+}
+.bi:hover{
+
+
+    background-color:red;
+
+}
+#contact{
+    background-color: grey;
+    padding-bottom: 4rem;
+}
